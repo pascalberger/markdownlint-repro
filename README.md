@@ -1,1 +1,5 @@
-# markdownlint-repro
+# §1 Test
+
+[Test]
+
+[Test]: #Test
